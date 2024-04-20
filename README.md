@@ -21,5 +21,5 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobzinhoflame&theme=solarized-light" alt="noobzinhoflame" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobzinhoflame&theme=highcontrast" alt="noobzinhoflame" />
 </p>
